@@ -1,0 +1,4 @@
+﻿Question 5
+<!DOCTYPE html>
+This declaration specifies that the document is an HTML5 document. HTML5 is the latest and most widely supported version of HTML .The DOCTYPE declaration helps the browser determine how to render the content. Different versions of HTML have different rules and features, so specifying the correct DOCTYPE ensures that the browser renders the page correctly.
+*DOCTYPE:- It is not an HTML tag or element, it's an instruction to the browser about the document's type and version.

@@ -1,0 +1,12 @@
+﻿Question 4
+
+
+HTML tags are used to define the structure content.on the other hand,elements consist of an opening tag, content (which can include text, other elements,or both),and a closing tag.
+examples of tags:
+<p> This is a paragraph tag. </p>
+<a href="https://www.google.com"> This is an anchor tag. </a>
+examples of element:
+<!-- The <p> element consists of an opening tag,content,and a closing tag. -->
+<p>This is a paragraph element.</p>
+<!-- The <a> element is used to create a hyperlink with attributes for the URL and link text. →
+<a href="https://www.example.com">Visit Example</a>
